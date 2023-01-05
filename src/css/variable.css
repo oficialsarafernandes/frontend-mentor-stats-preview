@@ -1,0 +1,9 @@
+:root{
+    --very-dark-background: hsl(233, 47%, 7%);
+    --dark-card-background: hsl(244, 38%, 16%);
+    --soft-accent: hsl(277, 64%, 61%);
+
+    --neutral-main-heading: hsl(0, 0%, 100%);
+    --transparent-main-paragraph: hsla(0, 0%, 100%, 0.75);
+    --transparent-stat-headings: hsla(0, 0%, 100%, 0.6);
+}
